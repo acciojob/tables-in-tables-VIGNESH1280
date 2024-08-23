@@ -2,11 +2,10 @@
 /* Your CSS Code here. */
 table {
             width: 100%;
-            border-collapse: collapse;
+            /* border-collapse: collapse; */
         }
         td, th {
             border: 1px solid black;
-            padding: 8px;
             text-align: center;
         }
         th {
