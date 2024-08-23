@@ -3,3 +3,6 @@
 tbody,tr,td,table,thead,th{
 	border:2px solid black;
 }
+th,td{
+	text-align:center;
+}
